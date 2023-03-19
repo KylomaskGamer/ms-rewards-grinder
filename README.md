@@ -17,7 +17,7 @@ MANDATORY: You need a microsoft account.
 
 #### How does it work?
 
-Ah, just opens 90 tabs. There is no function in my editor to close tabs, so good luck!
+Ah, just opens 30 tabs. There is no function in my editor to close tabs, so good luck!
 
 #### What did you use to make the project?
 
