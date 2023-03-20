@@ -10,7 +10,7 @@ MANDATORY: You need a microsoft account.
 
 ## Authors
 
-- [@Kylomask](https://www.github.com/octokatherine)
+- [@Kylomask](https://www.github.com/Kylomask)
 
 
 ## FAQ
@@ -32,3 +32,6 @@ You... can't. Well, just close the tab or wait until the grind is done. After it
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## I WANT DA STUFF NOW!
+
+[k fine](https://kylomask.github.io/ms-rewards-grinder/)
