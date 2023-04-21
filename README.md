@@ -36,4 +36,4 @@ You... can't. Well, just close the tab or wait until the grind is done. After it
 
 [k fine](https://kylomask.github.io/ms-rewards-grinder/)
 
-#I AM NOT RESPONSIBLE FOR YOUR ACTIONS!!!1!!1!
+# I AM NOT RESPONSIBLE FOR YOUR ACTIONS!!!1!!1!
