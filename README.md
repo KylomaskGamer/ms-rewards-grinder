@@ -10,7 +10,7 @@ MANDATORY: You need a microsoft account.
 
 ## Authors
 
-- [@Kylomask](https://www.github.com/Kylomask)
+- [@KylomaskGamer](https://www.github.com/KylomaskGamer)
 
 
 ## FAQ
