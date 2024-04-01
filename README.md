@@ -34,6 +34,6 @@ You... can't. Well, just close the tab or wait until the grind is done. After it
 
 ## I WANT DA STUFF NOW!
 
-[k fine](https://kylomask.github.io/ms-rewards-grinder/)
+[k fine](https://kylomaskgamer.github.io/ms-rewards-grinder/)
 
 # I AM NOT RESPONSIBLE FOR YOUR ACTIONS!!!1!!1!
